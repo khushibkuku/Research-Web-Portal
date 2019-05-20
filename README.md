@@ -1,2 +1,2 @@
 # Research-Web-Portal
-Headquarter for a webapp, where information of the ongoing research projects of professors from each department is available, with a short description of goals and required skills.
+Place where research enthusiats find their stop.On this the portal the information about various projects would be available bot finished and ongoing.It would also act as a central hub for research information. The information would help students find their inerest and underwstand the relevence of project and would also help the admistration with easy workflow and an organised data at the same place. Overall would help the institute to increase its efficiency in research field.
